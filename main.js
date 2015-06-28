@@ -110,8 +110,8 @@ function simulatioUtility(){
     	}
     	setTimeout(function(){
     		removeSimulation(solutionArray[counter]);
-    	},50);
-    }, 100);
+    	},800);
+    }, 1000);
 }
 function main() { 
     placeQueen(0);
