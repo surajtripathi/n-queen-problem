@@ -14,8 +14,8 @@ body{
 	height: 600px;
 }
 #gameArea table{
-	width: 100%;
-	height: 100%;
+	width: 600px;
+	height: 600px;
 	border-collapse:collapse;
 }
 #gameArea table tr{
