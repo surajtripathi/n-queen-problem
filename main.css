@@ -2,14 +2,11 @@ html {  }
 body{
 	width: 99%;
 	height: 100%;
-	/*margin: 0px*/
-	/*background-color: brown;*/
 	background-image: url("backgroung3.jpg");
 }
 #gameArea{
 	position: relative;
-	margin-top: 60px;
-	margin-left: 491px;
+	margin: 0 auto;
 	width: 600px;
 	height: 600px;
 }
@@ -27,21 +24,13 @@ body{
 	height: 75px%;
 	background-color: white;
 }
-/* this div is a descendent of the div above */
-/*#gameArea.child {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    opacity: .6;
-    background-image: url('replay.png');
-    pointer-events: none;
-} */
 div h1{
-	margin-left: 37%;
-	/*background-color: "Black";*/
+	position: relative;
 	color: white;
 	opacity: .9;
-	/*margin-right: auto;*/
+	margin-right:0 auto;
+}
+#heading{
+	margin-left: 0px;
+	margin-right: 0px;
 }

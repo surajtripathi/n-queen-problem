@@ -8,7 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
-<div id="heading"><h1>N-Queen Problem Simulation</h1></div>
+<div id="heading"><h1 align="center">N-Queen Problem Simulation</h1></div>
 <div id="gameArea"></div>
 
 </body>
